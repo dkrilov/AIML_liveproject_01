@@ -11,7 +11,7 @@ Please find here a **streamlined version of our observations** with an in-depth 
 In summary, while most drivers decline bar coupons, some do accept them, especially those with more frequent bar visits. Additionally, the occupation and marital status of drivers appear to have little impact on bar coupon acceptance.
 
 **Additional observations**:
-•	For the 'Restaurant(20-50)' coupon, 56% of drivers decline it, while 44% accept it.
+•	For the 'Restaurant(20-50)' coupon, 56% of drivers decline it, while 44% accept it.<br>
 •	Drivers in their mid-20s are the most likely to accept the 'Restaurant(20-50)' coupon, with an inverted correlation between age and coupon acceptance.
 •	The 'Restaurant(20-50)' coupon acceptance rate is similar for female drivers (43%) and male drivers (46%), suggesting that both genders tend to decline 'Restaurant(20-50)' coupons at a similar rate.
 
